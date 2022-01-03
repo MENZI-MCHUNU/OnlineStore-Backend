@@ -1,0 +1,27 @@
+{
+  "name": "onlinestore-backend",
+  "version": "1.0.0",
+  "description": "A Simple CRUD backend using GraphQL , Nodejs and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MENZI-MCHUNU/OnlineStore-Backend.git"
+  },
+  "keywords": [
+    "CRUD",
+    "EXPRESS",
+    "NODEJS",
+    "GRAPHQL",
+    "MONGODB"
+  ],
+  "author": "Menzi Mchunu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MENZI-MCHUNU/OnlineStore-Backend/issues"
+  },
+  "homepage": "https://github.com/MENZI-MCHUNU/OnlineStore-Backend#readme"
+}
