@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/MENZI-MCHUNU/OnlineStore-Backend/issues"
   },
-  "homepage": "https://github.com/MENZI-MCHUNU/OnlineStore-Backend#readme"
+  "homepage": "https://github.com/MENZI-MCHUNU/OnlineStore-Backend#readme",
+  "dependencies": {
+    "mongoose": "^6.1.4"
+  }
 }
