@@ -23,3 +23,5 @@ const addProduct = async (req, res) => {
       res.status(400).send(err);
     });
 };
+
+module.exports = addProduct;
